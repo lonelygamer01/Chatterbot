@@ -1,0 +1,109 @@
+{
+    "keywords": {
+        "wakeup" : [
+            "eve" 
+        ],
+        "greetings": [
+            "eve",
+            "hello",
+            "szia",
+            "üdv",
+            "üdvözlet",
+            "hali",
+            "örvendek",
+            "tiszteletem"
+        ],
+        "greetings_daytime":[
+            "eve",
+            "jó napot",
+            "reggelt",
+            "jó reggelt",
+            "napot",
+            "estét",
+            "jó estét",
+            "jó éjt",
+            "jó éjszakát",
+            "éjszakát",
+            "aludj jól"
+        ],
+        "comeback":[
+            "eve",
+            "megjöttem",
+            "hazaértem",
+            "itthon vagyok"
+        ],
+        "farewell": [
+            "eve",
+            "viszlát",
+            "majd jövök"
+        ],
+        "thanks":[
+            "eve",
+            "köszönöm",
+            "kösz",
+            "köszi"
+        ],
+        "reminder":[
+            "eve",
+            "emlékeztess",
+            "emlékeztess hogy",
+            "emlékeztess rá hogy",
+            "kérlek",
+            "kérlek hogy",
+            "emlékeztető",
+            "emlékeztetőt",
+            "figyelmeztess hogy",
+            "figyelmeztess rá hogy",
+            "figyelmeztetőt",
+            "állíts be",
+            "értesíts"
+        ],
+        "ending":[
+            "eve",
+            "felejtsd el",
+            "ennyi lett volna",
+            "kikapcs",
+            "ennyi"
+        ],
+        "love":[
+            "eve",
+            "szeretlek"
+        ]
+    },
+    "responses": {
+        "wakeup" : [
+            "Hallgatom uram.",
+            "Itt vagyok, uram.",
+            "Miben segithetek uram?"
+        ],
+        "comeback":[
+            "Üdvözlöm itthon, uram!",
+            "Örülök hogy hazaért, uram.",
+            "Jó itthon látni, uram."
+        ],
+        "greetings": [
+            "Hello! How can I help you today?",
+            "Hi there! What can I do for you?",
+            "Good morning! Hope you have a great day ahead."
+        ],
+        "farewell": [
+            "Legyen szép napja, uram!",
+            "Viszlát uram!",
+            "Vigyázzon magára, uram!"
+        ],
+        "thanks":[
+            "Szívesen uram.",
+            "Bármikor uram.",
+            "Önnek bármit uram."
+        ],
+        "time_queries": [
+            "The current time is {time}.",
+            "It's {time} now."
+        ],
+        "love":[
+            "Én is szeretem Önt uram!",
+            "Elpirulok uram!"
+        ]
+    }
+  }
+  
